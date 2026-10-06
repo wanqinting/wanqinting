@@ -14,6 +14,8 @@ I'm currently pursuing a **Master of Artificial Intelligence at UNSW**, with a s
 
 I'm currently strengthening my AI engineering and research foundations while building hands-on projects around **AI agents, machine learning, and intelligent applications**.
 
-### Tech
+### Tech & Focus
 
-**Python · SQL · C++ · Java · Git**
+**Core:** Python · SQL · Git  
+**AI/ML:** Machine Learning · Computer Vision  
+**Currently Exploring:** AI Agents · LLMs · RAG · Agentic Workflows
