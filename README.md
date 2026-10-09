@@ -1,4 +1,4 @@
-# Hi, I'm Ansley 👋
+# Hi, I'm Qinting Wan 👋
 
 I'm currently pursuing a **Master of Artificial Intelligence at UNSW**, with a strong interest in building practical and intelligent AI systems.
 
